@@ -1,3 +1,4 @@
+#!/bin/bash
 echo ('_' * 35)
 echo ("Tugas 1 SISOP Kelas-A")
 echo ('_' * 35)
